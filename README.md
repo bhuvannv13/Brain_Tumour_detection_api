@@ -1,4 +1,4 @@
-# Brain Tumour Detection API
+# Brain Tumour Classification API
 
 This repository provides a Python-based API for detecting brain tumours from medical images. The solution uses deep learning models to identify tumours and includes an interactive notebook for running the detection pipeline.
 
